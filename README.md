@@ -70,7 +70,7 @@ Document-Management-System/
 │   ├── database.py              # Database configuration and models
 ├── [app_fast_api.py](http://_vscodecontentref_/1)              # FastAPI application entry point
 ├── [app_stream.py](http://_vscodecontentref_/2)                # Streamlit application entry point
-├── [requirements.txt](http://_vscodecontentref_/3)             # Project dependencies
+├── [requirements.txt](http://_vscodecontentref_/3)             # Project dependencies(for HEAD ---------click on accept upcoming changes)
 ├── [README.md](http://_vscodecontentref_/4)                    # Project documentation
 └── .env                         # Environment variables
 >>>>>>> 37f894c (updated read me file)
