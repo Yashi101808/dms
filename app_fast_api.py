@@ -24,7 +24,7 @@ from utility.transliteration import process_file_input,transliterate_text,clean_
 from utility.qna import get_answer,process_file
 from utility.extract_text import process_document_upload
 from utility.extract_images import extract_images_from_pdf
-from utility.role_manager import change_user_role  # Import the role manager function
+#from utility.role_manager import change_user_role  # Import the role manager function
 
 app = FastAPI(title="AI Document Processor and Management API")
 
